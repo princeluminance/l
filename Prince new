@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Content Agency</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Your Content Agency</h1>
+        <nav>
+            <ul>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <!-- Add descriptions of your services here -->
+    </section>
+
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <!-- Add your portfolio items (projects) here -->
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Contact info and a contact form can go here.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Your Content Agency</p>
+    </footer>
+</body>
+</html>
+￼Enter
